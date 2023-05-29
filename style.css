@@ -1,0 +1,41 @@
+h1{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0C134F;
+}
+
+body{
+    background-color:#d3c7a4 ;
+}
+
+h3{
+    color: #060606;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    color: #0C134F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:link{
+
+    color: rgb(255, 0, 25);
+}
+
+a:visited {
+
+    color: #0c4f26;
+}
+.p{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.body{
+    background-color:#d3c7a4 ;
+}
